@@ -34,6 +34,9 @@
 - Build movie card
 - tmdb image cdn url
 - made the browse page 
+- gpt search feature
+- gpt search bar
+- multi language feature in our app*
 
 # Features
 
